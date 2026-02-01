@@ -59,6 +59,4 @@ This container is designed for [Unraid](https://unraid.net) so the user in the c
 If the install is incomplete for some reason.  Deleting the downloaded server file in /data will restart the install/upgrade process.
 
 ## Source
-Github: https://github.com/Goobaroo/docker-ftbstoneblock4
-
-Docker: https://hub.docker.com/repository/docker/goobaroo/ftbstoneblock4
+Github: https://github.com/CitizenStile/docker-ftbstoneblock4
