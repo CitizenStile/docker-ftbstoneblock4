@@ -7,8 +7,10 @@ if ! [[ -w "/data" ]]; then
   exit 66
 fi
 
-ID=130
-VER=100177
+# ID=130
+# VER=100177
+ID=$FTB_ID
+VER=$FTB_VER
 
 cd /data
 
